@@ -1,14 +1,17 @@
 ﻿using UnityEngine;
-using System.Collections;
+using Assets.Code.States;					// Accessed BeginState.cs (BeginState.cs declared namespace)
 
-public class StateManagers : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
+public class StateManagers : MonoBehaviour 	
+{
+	private BeginState activeState;			// Constructor protype
 	
+	
+	void Start () 
+	{
+		activeState = new BeginState();		// Instantiates BeginState() and assigns it to activeState
+		Debug.Log("This object is of type: " + activeState);
 	}
 	
-	// Update is called once per frame
 	void Update () {
 	
 	}
