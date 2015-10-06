@@ -1,0 +1,37 @@
+Mono path[0] = 'G:/GitHub/InteractiveScripting2/Unity/StateMachine2_Data/Managed'
+Mono path[1] = 'G:/GitHub/InteractiveScripting2/Unity/StateMachine2_Data/Mono'
+Mono config path = 'G:/GitHub/InteractiveScripting2/Unity/StateMachine2_Data/Mono/etc'
+PlayerConnection initialized from G:/GitHub/InteractiveScripting2/Unity/StateMachine2_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55186
+Multi-casting "[IP] 192.168.0.17 [Port] 55186 [Flags] 3 [Guid] 2848197977 [EditorId] 904859381 [Version] 1048832 [Id] WindowsPlayer(Envy) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.17:55186]...
+PlayerConnection accepted from [192.168.0.17] handle:0x234
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56977
+PlayerConnection already initialized - listening to [192.168.0.17:55186]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.248 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\GitHub\InteractiveScripting2\Unity\StateMachine2_Data\Managed\System.dll (this message is harmless)
+Waiting for finish
